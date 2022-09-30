@@ -1,22 +1,34 @@
-### Hello, World! 🌎
-<br>
+# 🐳&nbsp;&nbsp;손다예 (Son Da Ye)
 
-## 🍋 Contact
+- 🍋 Welcome to my Github!
+- 👩‍💻 I'm trying to improve my JavaScript & React skills.
+- 🎸 Fun fact: I love to play BASS, and I can play flute also.
+
+### Contact 
 - blog: [sondaye.github.io](https://sondaye.github.io)
 - mail: sondayae@gmail.com
-<br>
 
-## 🚩 Learning & Skill
-![html5 badge](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
-![css3 badge](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
-![js badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
-<br>
-![spring badge](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
-![spring boot badge](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white)
-![react badge](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)
-<br>
-![mysql badge](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-![mysql badge](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white)
-<br>
-![github badge](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
+### Learning and Skill 
+<img align="left" alt="java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img align="left" alt="html5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />     
+<img align="left" alt="css3" width="26px" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />          
+<img align="left" alt="javascript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+
+<br><br>
+
+<img align="left" alt="spring" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />          
+<img align="left" alt="react" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="redux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+<img align="left" alt="express" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />          
+<img align="left" alt="vue" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+<img align="left" alt="bootstrap" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+
+<br><br>
+          
+<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
+<img align="left" alt="oracle" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />        
+<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="vscode" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img align="left" alt="figma" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 
