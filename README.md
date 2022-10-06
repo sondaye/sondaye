@@ -31,3 +31,4 @@
 # 💻&nbsp;&nbsp;Projects
 
 - ISAAC PMS: 프로젝트 관리를 위한 PMS 웹 사이트
+- Movie List: 카테고리 별 영화 리스트 및 영화 상세정보 조회 사이트
