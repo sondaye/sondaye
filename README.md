@@ -1,8 +1,8 @@
 # 🐳&nbsp;&nbsp;손다예 (Son Da Ye)
 
-- 🍋 제 깃헙에 오신 걸 환영합니다! Welcome to my Github!
-- 👩‍💻 현재는 JS와 리액트 공부를 하고 있습니다. I'm trying to improve my JavaScript & React skills.
-- 🎸 베이스 연주를 좋아합니다. Fun fact: I love to play BASS, and I can play flute also.
+- 🍋 Welcome to my Github!
+- 👩‍💻 I'm trying to improve my JavaScript & React skills.
+- 🎸 Fun fact: I love to play BASS, and I can play flute also.
 
 ### Contact 
 - blog: [sondaye.github.io](https://sondaye.github.io)
