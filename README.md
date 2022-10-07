@@ -32,3 +32,8 @@
 
 - ISAAC PMS: 프로젝트 관리를 위한 PMS 웹 사이트 ( Java, JavaScript, Spring MVC, Oracle )
 - Movie List: 카테고리 별 영화 리스트 및 영화 상세정보 조회 사이트 ( React, emotion.js, styled component, TMDB API )
+
+
+## ✨&nbsp;&nbsp;Recent Posts
+- [프론트엔드와 백엔드 차이 (feat. 퍼블리셔)](https://sondaye.github.io/web/FE%20vs%20BE/)
+- [상태관리의 필요성](https://sondaye.github.io/Web/state_manement_tools/#4-recoil)
