@@ -35,5 +35,5 @@
 
 
 ## ✨&nbsp;&nbsp;Recent Posts
-- [프론트엔드와 백엔드 차이 (feat. 퍼블리셔)](https://sondaye.github.io/web/FE%20vs%20BE/)
+- [프론트엔드와 백엔드 차이 (feat. 퍼블리셔)](https://sondaye.github.io/Web/FE%20vs%20BE/)
 - [상태관리의 필요성](https://sondaye.github.io/Web/state_manement_tools)
